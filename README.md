@@ -5,4 +5,4 @@ git clone
 git add
 git push
 git commit
-
+git checkout
